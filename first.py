@@ -1,0 +1,6 @@
+print("hello world")
+print("Avay")
+print("kathmandu")
+print("981212121")
+print("avay@gmail.com")
+input()
